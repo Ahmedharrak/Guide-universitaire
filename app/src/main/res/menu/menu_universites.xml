@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/itemajouter"
+        android:title="Ajouter une université"
+        />
+    <item android:id="@+id/itemsupprimer"
+        android:title="Supprimer une université"
+        />
+    <item android:id="@+id/itemlister"
+        android:title="Lister les universités"
+        />
+    <item android:id="@+id/itemquitter"
+        android:title="Quitter"
+        />
+
+
+</menu>
